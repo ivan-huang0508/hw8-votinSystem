@@ -1,0 +1,56 @@
+html {
+
+  background: #2c302d;
+}
+
+.main {
+  background: #2c302d;
+  height: 100vh;
+  color: white;
+}
+.container {
+  width: 100%;
+  max-width: 1440px;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+.gradient-text-0 {
+  background: -webkit-linear-gradient(#bfa3da, #84309c, #c735b0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.connect {
+  margin-bottom: 2rem;
+}
+
+.box {
+  min-height: 290px;
+  background:  #191a19;
+  box-shadow: 18px 18px 44px #0a0a0a, -18px -18px 44px #282a28;
+  padding: 20px 30px;
+  border-radius: 20px;
+  overflow: hidden;
+  color: white;
+  text-align: center;
+  margin-top: 2rem;
+  gap: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.state-transfer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+
+
